@@ -1,0 +1,34 @@
+Key,Value
+ui_back,Back
+ui_leave,Leave
+ui_off,Off
+ui_warning,Warning!
+ui_pause_resume,Resume
+ui_quit_to_main_menu,Quit to Main Menu
+ui_quit_game,Quit Game
+ui_settings,Settings
+ui_video_settings,Video
+ui_audio_settings,Audio
+ui_accessability_settings,Accessability
+ui_video_resolution,Resolution
+ui_video_fullscreen_mode,Fullscreen Mode
+ui_video_fullscreen,Fullscreen
+ui_video_borderless,Borderless
+ui_video_windowed,Windowed
+ui_video_quality,Quality
+ui_video_quality_low,Low
+ui_video_quality_medium,Medium
+ui_video_quality_high,High
+ui_video_msaa,MSAA
+ui_video_fps,FPS
+ui_video_fps_unlimited,Unlimited
+ui_video_shadows,Shadows
+ui_video_bloom,Bloom
+ui_video_motion_blur,Motion Blur
+ui_audio_master,Master
+ui_audio_sfx,SFX
+ui_audio_music,Music
+ui_audio_voice,Voice
+ui_accessability_language,Langauge
+ui_save_settings,Save
+ui_settings_dirty,You have unsaved changes in your settings.

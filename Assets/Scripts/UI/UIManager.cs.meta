@@ -1,0 +1,19 @@
+fileFormatVersion: 2
+guid: 05aff69cff3b7ac43a6a046406ae8d95
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - mainMenuCanvas: {instanceID: 0}
+  - pauseMenuCanvas: {fileID: 357790052127801420, guid: 90ec146015b719c458f3ed586f09a9c5, type: 3}
+  - settingsCanvas: {fileID: 526646914491690153, guid: 0c3226ce59a7960408976ea29e027115, type: 3}
+  - gameUICanvas: {instanceID: 0}
+  - _mainMenuCanvasHandler: {instanceID: 0}
+  - _pauseMenuCanvasHandler: {instanceID: 0}
+  - _settingsCanvasHandler: {instanceID: 0}
+  - _gameUICanvasHandler: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

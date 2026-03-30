@@ -1,0 +1,34 @@
+Key,Value
+ui_back,Zurück
+ui_leave,Verlassen
+ui_off,Aus
+ui_warning,Warnung!
+ui_pause_resume,Fortsetzen
+ui_quit_to_main_menu,Zum Hauptmenü
+ui_quit_game,Spiel beenden
+ui_settings,Einstellungen
+ui_video_settings,Video
+ui_audio_settings,Audio
+ui_accessability_settings,Barrierefreiheit
+ui_video_resolution,Auflösung
+ui_video_fullscreen_mode,Bildschirmmodus
+ui_video_fullscreen,Vollbild
+ui_video_borderless,Randlos
+ui_video_windowed,Fenster
+ui_video_quality,Qualität
+ui_video_quality_low,Niedrig
+ui_video_quality_medium,Mittel
+ui_video_quality_high,Hoch
+ui_video_msaa,MSAA
+ui_video_fps,FPS
+ui_video_fps_unlimited,Unbegrenzt
+ui_video_shadows,Schatten
+ui_video_bloom,Bloom
+ui_video_motion_blur,Bewegungsunschärfe
+ui_audio_master,Hauptlautstärke
+ui_audio_sfx,SFX
+ui_audio_music,Musik
+ui_audio_voice,Sprache
+ui_accessability_language,Sprache
+ui_save_settings,Speichern
+ui_settings_dirty,Sie haben ungespeicherte Änderungen in Ihren Einstellungen.
